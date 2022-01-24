@@ -1,4 +1,4 @@
-# Lightoj-Online-Judge-Solution
+# Problem Solution
 
 |   Problem    |   Solution   |
 | ------------ | ------------ |
