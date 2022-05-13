@@ -1,6 +1,6 @@
 # Problem Solution
 
-|   Problem    |   Solution   |
+| Problem Link |   Solution   |
 | ------------ | ------------ |
 | [1000](https://lightoj.com/problem/greetings-from-lightoj) | [1000.cpp](https://github.com/SohagMollik/Lightoj-Online-Judge-Solution/blob/main/Solution/1000%20-%20Greetings%20from%20LightOJ.cpp) |
 | [1001](https://lightoj.com/problem/opposite-task) | [1001.cpp](https://github.com/SohagMollik/Lightoj-Online-Judge-Solution/blob/main/Solution/1001%20-%20Opposite%20Task.cpp) |
