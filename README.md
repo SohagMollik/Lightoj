@@ -32,3 +32,4 @@
 | [1387](https://lightoj.com/problem/setu) | [1387.cpp](https://github.com/SohagMollik/Lightoj-Online-Judge-Solution/blob/main/Solution/1387%20%E2%80%93%20Setu.cpp) |
 | [1414](https://lightoj.com/problem/february-29) | [1414.cpp](https://github.com/SohagMollik/Lightoj-Online-Judge-Solution/blob/main/Solution/1414%20%E2%80%93%20February%2029.cpp) |
 | [1433](https://lightoj.com/problem/minimum-arc-distance) | [1433.cpp](https://github.com/SohagMollik/Lightoj-Online-Judge-Solution/blob/main/Solution/1433%20%E2%80%93%20Minimum%20Arc%20Distance.cpp) |
+| [1082](https://lightoj.com/problem/array-queries) | [1082.cpp](https://github.com/SohagMollik/Lightoj/blob/main/Solution/1082%20-%20Array%20Queries.cpp) |
